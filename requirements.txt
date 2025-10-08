@@ -1,0 +1,12 @@
+ipykernel # Very essential for Jupyter notebooks
+numpy
+pandas
+# No data science without these
+torch
+torchvision
+# Please download torch and torchvision from https://pytorch.org/get-started/locally/ for your specific CUDA version
+tqdm # For progress bars
+scikit-learn # For various utilities like train_test_split and metrics
+transformers # Hugging Face transformers library
+datasets # Hugging Face datasets library
+
